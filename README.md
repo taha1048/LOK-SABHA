@@ -20,6 +20,9 @@ We have data about:
 4. Votes Gained
 - general_votes, postal_votes, total_votes
 
+# Requirements
+Answers to 11 questions check them [here]
+
 # Project Phases
 1. Data Preprocessing [check it](https://github.com/taha1048/LOK-SABHA/blob/main/LOK%20SABHA%20(Preprocessing).ipynb)
 2. Voter Turnout Ratio Analysis [check it](https://github.com/taha1048/LOK-SABHA/blob/main/LOK%20SABHA%20(Turnout%20Ratio).ipynb)
