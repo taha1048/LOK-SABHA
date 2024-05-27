@@ -31,7 +31,7 @@ Answers to 11 questions check them [here](https://github.com/taha1048/LOK-SABHA/
 5. Candidate Analysis [check it](https://github.com/taha1048/LOK-SABHA/blob/main/LOK%20SABHA%20(Candidate%20Analysis).ipynb)
 
 # End Results
-1. Video Presentation [check it]
+1. Video Presentation [watch it]
 2. Power Point File
 3. 5 Jupyter Notebooks
 
