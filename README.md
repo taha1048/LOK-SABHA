@@ -1,6 +1,6 @@
 # LOK-SABHA  
 
-Hi Everyone, I'm happy to share with you my latest project (LOK SABHA). The purpose of this project is to provide meaningful insights about the LOK SABHA's latest 2 rounds.
+Hi Everyone, I'm happy to share with you my latest project (LOK SABHA).It's also my submition to [Codebasics.io 11th challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge).. The purpose of this project is to provide meaningful insights about the LOK SABHA's latest 2 rounds.
 
 # Problem Statement
 
