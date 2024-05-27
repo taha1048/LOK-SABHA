@@ -21,7 +21,7 @@ We have data about:
 - general_votes, postal_votes, total_votes
 
 # Requirements
-Answers to 11 questions check them [here]
+Answers to 11 questions check them [here](https://github.com/taha1048/LOK-SABHA/blob/main/primary_and_secondary_questions.pdf)
 
 # Project Phases
 1. Data Preprocessing [check it](https://github.com/taha1048/LOK-SABHA/blob/main/LOK%20SABHA%20(Preprocessing).ipynb)
