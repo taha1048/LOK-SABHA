@@ -27,4 +27,3 @@ We have data about:
 4. Parties Analysis [check it](https://github.com/taha1048/LOK-SABHA/blob/main/LOK%20SABHA%20(Parties%20Analysis).ipynb)
 5. Candidate Analysis [check it](https://github.com/taha1048/LOK-SABHA/blob/main/LOK%20SABHA%20(Candidate%20Analysis).ipynb)
 
-Feel free to explore each phase to gain insights from the LOK SABHA election data!
