@@ -27,3 +27,8 @@ We have data about:
 4. Parties Analysis [check it](https://github.com/taha1048/LOK-SABHA/blob/main/LOK%20SABHA%20(Parties%20Analysis).ipynb)
 5. Candidate Analysis [check it](https://github.com/taha1048/LOK-SABHA/blob/main/LOK%20SABHA%20(Candidate%20Analysis).ipynb)
 
+# End Results
+1. Video Presentation [check it]
+2. Power Point File
+3. 5 Jupyter Notebooks
+
