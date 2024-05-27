@@ -12,13 +12,13 @@ You can check the project details and the data [here](https://codebasics.io/chal
 # Data Overview
 We have data about:
 1. Geo 
-  - state_name, pc_name, total_electors
+ -> state_name, pc_name, total_electors
 2. Individual Participants
-  - candidate_name, sex, age, category
+ -> candidate_name, sex, age, category
 3. Political Parties Involved 
-  - party_name, party_symbol
+ -> party_name, party_symbol
 4. Votes Gained
-  - general_votes, postal_votes, total_votes
+ -> general_votes, postal_votes, total_votes
 
 # Project Phases
 1. Data Preprocessing [check it](https://github.com/taha1048/LOK-SABHA/blob/main/LOK%20SABHA%20(Preprocessing).ipynb)
