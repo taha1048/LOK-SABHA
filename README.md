@@ -32,7 +32,8 @@ Answers to 11 questions check them [here](https://github.com/taha1048/LOK-SABHA/
 
 # Tools
 1. Python + SQL (Pandas, Numpy, Matplotlib, Seaborn, Pandasql)
-2. Power Point
+2. Jupyter Notebooks
+3. Power Point
 
 # End Results
 1. Video Presentation [watch it]
