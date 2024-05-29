@@ -30,6 +30,10 @@ Answers to 11 questions check them [here](https://github.com/taha1048/LOK-SABHA/
 4. Parties Analysis [check it](https://github.com/taha1048/LOK-SABHA/blob/main/LOK%20SABHA%20(Parties%20Analysis).ipynb)
 5. Candidate Analysis [check it](https://github.com/taha1048/LOK-SABHA/blob/main/LOK%20SABHA%20(Candidate%20Analysis).ipynb)
 
+# Tools
+1. Python + SQL (Pandas, Numpy, Matplotlib, Seaborn, Pandasql)
+2. Power Point
+
 # End Results
 1. Video Presentation [watch it]
 2. Power Point File
