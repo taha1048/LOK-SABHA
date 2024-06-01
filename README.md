@@ -1,6 +1,6 @@
 # LOK-SABHA  
 
-Hi Everyone, I'm happy to share with you my latest project (LOK SABHA).It's also my submition to [Codebasics.io 11th challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge).. The purpose of this project is to provide meaningful insights about the LOK SABHA's latest 2 rounds.
+Hi Everyone, I'm happy to share with you my latest project (LOK SABHA).It's also my submmition to [Codebasics.io 11th challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge).. The purpose of this project is to provide meaningful insights about the LOK SABHA's latest 2 rounds.
 
 # Problem Statement
 
@@ -36,7 +36,7 @@ Answers to 11 questions check them [here](https://github.com/taha1048/LOK-SABHA/
 3. Power Point
 
 # End Results
-1. Video Presentation [watch it]
+1. Video Presentation [watch it](https://drive.google.com/drive/folders/1DSVXo-3yOMV0LCYjwECRJ21-sV9Qcx69)
 2. Power Point File
 3. 5 Jupyter Notebooks
 
