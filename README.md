@@ -37,6 +37,6 @@ Answers to 11 questions check them [here](https://github.com/taha1048/LOK-SABHA/
 
 # End Results
 1. Video Presentation [watch it](https://drive.google.com/drive/folders/1DSVXo-3yOMV0LCYjwECRJ21-sV9Qcx69)
-2. Power Point File
+2. Power Point File [Open](https://github.com/taha1048/LOK-SABHA/blob/main/LOKSABHA(Pdf).pdf)
 3. 5 Jupyter Notebooks
 
