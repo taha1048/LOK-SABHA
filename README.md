@@ -24,9 +24,10 @@ We have data about:
 Answers to 11 questions check them [here](https://github.com/taha1048/LOK-SABHA/blob/main/primary_and_secondary_questions.pdf)
 
 # Project Phases
-1. Data Preprocessing [check it](https://github.com/taha1048/LOK-SABHA/blob/main/LOK%20SABHA%20(Preprocessing).ipynb)
+### Edit 
+"In The 'Data Preprocessing' Part I Made A Big Mistake, I Summed The 'total_electors' Column While It Was A Unique Value For All PCs in The 'pc_name' Column, Leading To Incorrect Numbers in The 'Voter Turnout Ratio Analysis' Part But Unfortunately, I Noticed That After Recording And Submitting The Video -_-' "
 
-Edit "In This Part I Made A Big Mistake, I Summed The 'total_electors' Column While It Was A Unique Value For All PCs in The 'pc_name' Column"
+1. Data Preprocessing [check it](https://github.com/taha1048/LOK-SABHA/blob/main/LOK%20SABHA%20(Preprocessing).ipynb)
 2. Voter Turnout Ratio Analysis [check it](https://github.com/taha1048/LOK-SABHA/blob/main/LOK%20SABHA%20(Turnout%20Ratio).ipynb)
 3. Parliamentary Constituency (PC) Analysis [check it](https://github.com/taha1048/LOK-SABHA/blob/main/LOK%20SABHA%20(Constituencies).ipynb)
 4. Parties Analysis [check it](https://github.com/taha1048/LOK-SABHA/blob/main/LOK%20SABHA%20(Parties%20Analysis).ipynb)
